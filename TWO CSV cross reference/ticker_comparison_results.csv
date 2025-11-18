@@ -1,0 +1,27 @@
+Original_Ticker,Clean_Ticker,In_Reference,Status
+SGMO,SGMO,True,Found in Reference
+LQDA,LQDA,False,NOT in Reference
+TARS,TARS,False,NOT in Reference
+LEXX,LEXX,True,Found in Reference
+KURA,KURA,True,Found in Reference
+SNDX,SNDX,False,NOT in Reference
+SLDB,SLDB,True,Found in Reference
+MLTX,MLTX,False,NOT in Reference
+SGMO,SGMO,True,Found in Reference
+NTLA,NTLA,False,NOT in Reference
+ZBIO,ZBIO,True,Found in Reference
+DYN,DYN,False,NOT in Reference
+CADL,CADL,True,Found in Reference
+NBTX,NBTX,True,Found in Reference
+SLDB,SLDB,True,Found in Reference
+IVA,IVA,True,Found in Reference
+NAMS,NAMS,False,NOT in Reference
+EYPT,EYPT,True,Found in Reference
+XBIO,XBIO,True,Found in Reference
+AIM,AIM,True,Found in Reference
+LEXX,LEXX,True,Found in Reference
+NKTR,NKTR,True,Found in Reference
+XBI (ETF),XBI,True,Found in Reference
+BBC (ETF),BBC,True,Found in Reference
+DRTS,DRTS,True,Found in Reference
+KURA,KURA,True,Found in Reference
